@@ -1,8 +1,9 @@
 # CHIP-8
 
-![chip8](images/chip8.png)
-
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br>
 Yet another CHIP-8 interpreter written in C.
+
+![chip8](images/chip8.png)
 
 ## Building & Running
 
@@ -76,7 +77,7 @@ ESC - Close program
 
 ## Acknowledgements
 
- * [Included ROMS](https://github.com/kripod/chip8-roms)
+ * [Included ROMs](https://github.com/kripod/chip8-roms)
  * [Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#8xy3)
 
 ## License
